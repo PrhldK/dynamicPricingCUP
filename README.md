@@ -1,0 +1,2 @@
+# dynamicPricingCUP
+It is essential to predict CUP dynamically for Avvo Ad business. Once our CUP accurately reflects the signals from search engines, demand from lawyers, and market churns, we shall be able to keep our price competitive and maximize revenue at the same time. In current design, we collect multiple data streams from SEM, Google SemRush API, Avvo sell_through, mrr and churn rates and create multiple relevant indexes to generate final cup_potential index.
